@@ -36,3 +36,15 @@ Components:
 - L1100s motor driver
 - MPU5060 gyro driver
 - x4 3.7V motor
+- DC 5V booster
+
+% Power
+
+I decided to use a 3.7V Lippo battery. Lithium polymer battery (Lipo in short) are rechargeable batteries that have many advantages over other existing technologies.
+The main advantage is the high energy density, allowing them to store more power in a smaller, lighter package. For drones, weight is one of the main constraints for which you have to look out.
+Taking that into acccount, Lipo batteries were a logical choice. It is also important to calculate the total power consumption of drone to get an idea of how long your drone can fully operate with a given battery.
+I researched different models and put together this excel.
+
+<img width="811" height="266" alt="image" src="https://github.com/user-attachments/assets/d679f189-8107-427e-b57b-d343c06bae11" />
+
+
