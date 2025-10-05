@@ -47,4 +47,5 @@ I researched different models and put together this excel.
 
 <img width="811" height="266" alt="image" src="https://github.com/user-attachments/assets/d679f189-8107-427e-b57b-d343c06bae11" />
 
+I decided to use the first battery, even though others like the 4th battery allow more fly time, they also cost a lot more.
 
