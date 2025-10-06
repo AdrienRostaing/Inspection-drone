@@ -76,8 +76,8 @@ The small holes align with eachother, skrew in bolts to maintain the motors in p
 
 The slants circled in red are used to hold the walls of the drone core tightly sealed. The walls follow the designs below.
 
-![Walls]()
-<img width="900" height="300" alt="Frame_B" src="https://github.com/user-attachments/assets/ca72c2f2-6764-4c09-b1af-0bfeaf020b88" />
+
+<img width="900" height="300" alt="Walls" src="https://github.com/user-attachments/assets/f1b49e2e-3d73-4419-acf6-38fc3b919333" />
 
 
 
