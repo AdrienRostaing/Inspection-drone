@@ -27,7 +27,8 @@ This repository is dedicated to a school and personnal project I am undergoing. 
 
 # Electronic Schematic of the drone
 
-<img width="1164" height="794" alt="image" src="https://github.com/user-attachments/assets/070bbf61-2c70-43f9-b233-16672258b554" />
+<img width="702" height="645" alt="image" src="https://github.com/user-attachments/assets/2f218708-1459-4583-8889-8cef7535402d" />
+
 
 Components: 
 - Lipo 3.7V battery
@@ -50,12 +51,13 @@ I researched different models and put together this excel.
 I decided to use the first battery, even though others like the 4th battery allow more fly time, they also cost a lot more.
 
 Both the ESP32_Cam and the arduino Nano require to be powered at 5V to function properly. I decided to use a simple DC boost module for now (will probably intergrate it into the final PCB when I'm done testing everything).
+As you can see on the electronic schematic, the arduino nano and ESP32_Cam are powered by the DC booster module, the gyro, motor driver and motors are all powered by the battery.
 The module is powered by our 3.7V battery and we want it to output 5V. To do so you solder the cables to the coresponding pins. 
 IMPORTANT: Many booster modules are conceived for different power outputs. The one i ordered can be set 5V, 8V, 9V and 12V, it is default set to 12V. To set it to 5V, you have to remove both resistors indicated as A and B.
 
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/791c8467-1a84-4d04-a36b-fa0c09c29876" />
 
-As you can see on the electronic schematic, 
+
 
 
 
