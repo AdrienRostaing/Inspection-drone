@@ -59,9 +59,11 @@ IMPORTANT: Many booster modules are conceived for different power outputs. The o
 
 # Frame
 
-I decided to design the frame myself based off existing models. The main problem with these existing models is that the cores are too small and generally they don't do not give you any freedom in customizing the drone. 
-For example, I want to add sensors on the drone. I bought thin 1mm sheets of plastic that I can cut into the shapes I want. The plastic sheets were very light and quite resistant which are essential for designing the frame of a drone.
+I decided to design the frame myself based off existing models. The main problem with these existing models is that the cores are too small and generally they do not give you any freedom in customizing the drone. 
+For example, I want to add sensors on the drone to determine its distance from surrounding structures, vegetation, people etc... . I bought thin 1mm sheets of plastic that I can cut into the shapes I want. The plastic sheets were very light and quite resistant which are essential for designing the frame of a drone.
 The main idea for the frame is to cut 2 of each outlines (A and B) of the drone as seen below.
+
+WARNING: You must cut a hole for your camera and a hole for an antenna if you have one.
 
 <img width="450" height="450" alt="Frame_A" src="https://github.com/user-attachments/assets/65a80a9a-90cc-4d45-8778-ca5ca53295ea" />
 <img width="450" height="500" alt="Frame_B" src="https://github.com/user-attachments/assets/ca72c2f2-6764-4c09-b1af-0bfeaf020b88" />
