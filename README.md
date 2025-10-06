@@ -53,7 +53,8 @@ Both the ESP32_Cam and the arduino Nano require to be powered at 5V to function 
 The module is powered by our 3.7V battery and we want it to output 5V. To do so you solder the cables to the coresponding pins. 
 IMPORTANT: Many booster modules are conceived for different power outputs. The one i ordered can be set 5V, 8V, 9V and 12V, it is default set to 12V. To set it to 5V, you have to remove both resistors indicated as A and B.
 
-![00000IMG_00000_BURST20251006165436_COVER](https://github.com/user-attachments/assets/122f3f27-c482-4156-81d3-1aab7c607e0a)
+
+![DC_booster](https://github.com/user-attachments/assets/791c8467-1a84-4d04-a36b-fa0c09c29876)
 
 As you can see on the electronic schematic, 
 
