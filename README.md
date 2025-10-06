@@ -63,13 +63,15 @@ I decided to design the frame myself based off existing models. The main problem
 For example, I want to add sensors on the drone. I bought thin 1mm sheets of plastic that I can cut into the shapes I want. The plastic sheets were very light and quite resistant which are essential for designing the frame of a drone.
 The main idea for the frame is to cut 2 of each outlines (A and B) of the drone as seen below.
 
-<img width="635" height="659" alt="Frame_A" src="https://github.com/user-attachments/assets/e2f1b293-cea6-4060-b991-8f4095e0ff0d" />
-<img width="635" height="659" alt="Frame_B" src="https://github.com/user-attachments/assets/bbdab514-1d13-483e-a7bf-4fbff945b97a" />
+<img width="635" height="659" alt="Frame_A" src="https://github.com/user-attachments/assets/d2dc5597-179d-4260-a6d7-1c7ceaa459e1" />
+
+<img width="567" height="528" alt="image" src="https://github.com/user-attachments/assets/4d4154ec-2da1-44ee-bda0-3c9170275979" />
 
 
 
+I aligned and glued outline A and B together. The motors fit into the large holes on A, while the motor wires and the rotor go through the small holes on B.
+The small holes align with eachother, skrew in bolts to maintain the motors in place and hold the frame together. 
 
-I aligned and glued outline A and B together. Giving me the top and bottom of my drone frame, using the small holes for screwing both sections. The motoprs fit into the large holes, maintaining them in place after skrewing in the bolts.
 
 
 
