@@ -45,13 +45,12 @@ Components:
 
 - MPU5060 gyro driver
 <img width="200" height="175" alt="image" src="https://github.com/user-attachments/assets/2a8ce602-5294-4760-a62d-aa7f3f16da33" />
-
   
 - x4 3.7V motor
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/68a3a25c-2687-4ff6-a459-5c548e0b2a24" />
 
 - DC 5V booster
-  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0887c08e-d6dd-40d1-904d-a3c3e45d6279" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0887c08e-d6dd-40d1-904d-a3c3e45d6279" />
 
 
 # Power
