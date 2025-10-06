@@ -32,14 +32,27 @@ This repository is dedicated to a school and personnal project I am undergoing. 
 
 Components: 
 - Lipo 3.7V battery
-<img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/99bffb33-df7f-4c30-982a-5b94b18f5574" />
+<img width="200" height="225" alt="image" src="https://github.com/user-attachments/assets/99bffb33-df7f-4c30-982a-5b94b18f5574" />
 
 - ESP-32 CAM
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6c43f9a0-7c1e-40c9-b384-6230e63bc203" />
+
 - Arduino Nano (not necessary)
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6ede653d-700b-4456-9b29-e04f46f6a141" />
+
 - L1100s motor driver
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3f565da1-3356-417a-984d-8439fdf877ac" />
+
 - MPU5060 gyro driver
+<img width="200" height="175" alt="image" src="https://github.com/user-attachments/assets/2a8ce602-5294-4760-a62d-aa7f3f16da33" />
+
+  
 - x4 3.7V motor
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/68a3a25c-2687-4ff6-a459-5c548e0b2a24" />
+
 - DC 5V booster
+  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0887c08e-d6dd-40d1-904d-a3c3e45d6279" />
+
 
 # Power
 
