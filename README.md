@@ -32,6 +32,8 @@ This repository is dedicated to a school and personnal project I am undergoing. 
 
 Components: 
 - Lipo 3.7V battery
+<img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/99bffb33-df7f-4c30-982a-5b94b18f5574" />
+
 - ESP-32 CAM
 - Arduino Nano (not necessary)
 - L1100s motor driver
@@ -55,8 +57,8 @@ As you can see on the electronic schematic, the arduino nano and ESP32_Cam are p
 The module is powered by our 3.7V battery and we want it to output 5V. To do so you solder the cables to the coresponding pins. 
 IMPORTANT: Many booster modules are conceived for different power outputs. The one i ordered can be set 5V, 8V, 9V and 12V, it is default set to 12V. To set it to 5V, you have to remove both resistors indicated as A and B.
 
-<img width="300" height="200" alt="DC_booster" src="https://github.com/user-attachments/assets/7d10fff6-d70d-436b-8122-f760b7bf2772" />
-![DC_booster]()
+<img width="600" height="400" alt="DC_booster" src="https://github.com/user-attachments/assets/7d10fff6-d70d-436b-8122-f760b7bf2772" />
+
 
 # Frame
 
