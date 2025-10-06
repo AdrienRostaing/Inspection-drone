@@ -67,10 +67,9 @@ The main idea for the frame is to cut 2 of each outlines (A and B) of the drone 
 <img width="450" height="500" alt="Frame_B" src="https://github.com/user-attachments/assets/ca72c2f2-6764-4c09-b1af-0bfeaf020b88" />
 
 
-
-
 I aligned and glued outline A and B together. The motors fit into the large holes on A, while the motor wires and the rotor go through the small holes on B.
 The small holes align with eachother, skrew in bolts to maintain the motors in place and hold the frame together. 
+
 
 <img width="403" height="243" alt="Frame_A_closeup" src="https://github.com/user-attachments/assets/24d9be36-2f01-4661-b25a-8723a7ad2194" />
 
