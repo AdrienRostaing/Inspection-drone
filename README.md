@@ -38,7 +38,7 @@ Components:
 - x4 3.7V motor
 - DC 5V booster
 
-% Power
+# Power
 
 I decided to use a 3.7V Lippo battery. Lithium polymer battery (Lipo in short) are rechargeable batteries that have many advantages over other existing technologies.
 The main advantage is the high energy density, allowing them to store more power in a smaller, lighter package. For drones, weight is one of the main constraints for which you have to look out.
@@ -48,4 +48,14 @@ I researched different models and put together this excel.
 <img width="811" height="266" alt="image" src="https://github.com/user-attachments/assets/d679f189-8107-427e-b57b-d343c06bae11" />
 
 I decided to use the first battery, even though others like the 4th battery allow more fly time, they also cost a lot more.
+
+Both the ESP32_Cam and the arduino Nano require to be powered at 5V to function properly. I decided to use a simple DC boost module for now (will probably intergrate it into the final PCB when I'm done testing everything).
+The module is powered by our 3.7V battery and we want it to output 5V. To do so you solder the cables to the coresponding pins. 
+IMPORTANT: Many booster modules are conceived for different power outputs. The one i ordered can be set 5V, 8V, 9V and 12V, it is default set to 12V. To set it to 5V, you have to remove both resistors indicated as A and B.
+
+![00000IMG_00000_BURST20251006165436_COVER](https://github.com/user-attachments/assets/122f3f27-c482-4156-81d3-1aab7c607e0a)
+
+As you can see on the electronic schematic, 
+
+
 
