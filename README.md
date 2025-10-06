@@ -64,7 +64,7 @@ For example, I want to add sensors on the drone. I bought thin 1mm sheets of pla
 The main idea for the frame is to cut 2 of each outlines (A and B) of the drone as seen below.
 
 <img width="450" height="450" alt="Frame_A" src="https://github.com/user-attachments/assets/65a80a9a-90cc-4d45-8778-ca5ca53295ea" />
-<img width="450" height="450" alt="Frame_B" src="https://github.com/user-attachments/assets/ca72c2f2-6764-4c09-b1af-0bfeaf020b88" />
+<img width="450" height="500" alt="Frame_B" src="https://github.com/user-attachments/assets/ca72c2f2-6764-4c09-b1af-0bfeaf020b88" />
 
 
 
